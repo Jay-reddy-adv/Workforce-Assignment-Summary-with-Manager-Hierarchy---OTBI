@@ -71,6 +71,17 @@ Workforce Management – Worker Assignment Real Time
 
 
 
+**📱 SNAPSHOTS OF THE REPORT**
+
+
+![img_alt](https://github.com/Jay-reddy-adv/Workforce-Assignment-Summary-with-Manager-Hierarchy---OTBI/blob/1dad15f6639a535fcf907498ccdb49bc7148d3b9/Title.png)
+
+
+![img_alt](https://github.com/Jay-reddy-adv/Workforce-Assignment-Summary-with-Manager-Hierarchy---OTBI/blob/1dad15f6639a535fcf907498ccdb49bc7148d3b9/Table.png)
+
+
+
+
 
 
 
